@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **PersonalChatbot (link will be updated soon)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fahadBajwaa/fahadBajwaa](https://github.com/fahadBajwaa/fahadBajwaa)
-
 - 💬 Ask me about **node, express, react, mysql, java, c++, sdlc models, QA, software re-engineering.**
 
 - 📫 How to reach me **fahaddbajwaa@gmail.com**
